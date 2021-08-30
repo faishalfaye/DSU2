@@ -1,0 +1,2 @@
+Link Tutorial : https://cs50.harvard.edu/web/2020/weeks/1/
+Link Github DSU : https://github.com/dsuinjkt/DSU-Batch-2
