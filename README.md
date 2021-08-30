@@ -1,4 +1,4 @@
-# DSU2
+# Data Science UIN Jakarta Batch 2
 
 <br />
 <p align="center">
